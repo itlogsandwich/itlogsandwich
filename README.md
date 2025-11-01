@@ -1,8 +1,8 @@
-# [Do not perceive me.]
+<h1 align = "center"> [Do not perceive me.] </h1>
 
-### Tidbits 'bout me
-I am nothing but a **__fraud__**
-  
+<h2 align = "center" > Tidbits 'bout me </h2> 
+<h4 align = "center"> I am nothing but a fraud </h4>
+<br>
 <h1 align = "center"> stuff </h1>
 <p align="center">
   <a href="https://skillicons.dev">
