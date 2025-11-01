@@ -3,7 +3,7 @@
 ### Tidbits 'bout me
 <p> I am nothing but a **__fraud__** </p>
   
-### stuff
+<p align = "center"> ### stuff </p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch,linux,bash,rust,neovim,c,java,mysql" />
