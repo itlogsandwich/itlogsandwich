@@ -1,8 +1,7 @@
 <h1 align = "center"> [Do not perceive me.] </h1>
 
-<h2 align = "center" > Tidbits 'bout me </h2> 
-<h4 align = "center"> I am nothing but a fraud </h4>
-<br>
+<h2 align = "center" > Tidbits 'bout me\n I am nothing but a fraud </h2> 
+
 <h1 align = "center"> stuff </h1>
 <p align="center">
   <a href="https://skillicons.dev">
