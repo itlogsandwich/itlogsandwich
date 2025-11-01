@@ -1,7 +1,7 @@
 # [Do not perceive me.]
 
 ### Tidbits 'bout me
-<p> I am nothing but a **__fraud__** </p>
+I am nothing but a **__fraud__**
   
 <h1 align = "center"> stuff </h1>
 <p align="center">
