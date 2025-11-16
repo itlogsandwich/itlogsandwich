@@ -1,6 +1,4 @@
 <h1 align = "center"> [Do not perceive me.] </h1>
-
-<h2 align = "center"> stuff I dabble in </h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch,linux,bash,neovim,rust,c,java,mysql" />
