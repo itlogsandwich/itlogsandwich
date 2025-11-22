@@ -1,7 +1,7 @@
 <h1 align = "center"> [Do not perceive me.] </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,linux,bash,neovim,rust,c,java,mysql" />
+    <img src="https://skillicons.dev/icons?i=arch,linux,bash,neovim,rust,c,java,php,mysql" />
   </a>
 </p>
 
