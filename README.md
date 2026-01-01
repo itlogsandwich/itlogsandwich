@@ -1,9 +1,29 @@
-<h1 align = "center"> [Do not perceive me.] </h1>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,linux,bash,neovim,rust,c,java,laravel,php,mysql" />
-  </a>
+<h1> [Do not perceive me.] </h1>
+<h3>
+  ████████
+</h3>
+<p>
+  <strong> Subject Name: </strong> ███ Hansen
 </p>
+
+<p>
+  <strong> Object Class: </strong> █████
+</p>
+<p>
+  <strong> Status: </strong> Barely Surviving
+</p>
+
+<h3> Tidbit: </h3>
+<section>
+  <ul>
+    <li>
+      BSIT Student
+    </li>
+    <li>
+      ESL Tutor
+    </li>
+  </ul>
+</section>
 
 <!---
 itlogsandwich/itlogsandwich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
