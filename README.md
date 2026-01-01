@@ -1,26 +1,35 @@
 <h1> [Do not perceive me.] </h1>
-<h3>
-  ████████
-</h3>
-<p>
-  <strong> Subject Name: </strong> ███ Hansen
-</p>
+<section class = "info">
+  <h3>
+    ████████
+  </h3>
+  <p>
+    <strong> Subject Name: </strong> ███ Hansen ███
+  </p>
+  
+  <p>
+    <strong> Object Class: </strong> █████
+  </p>
+  <p>
+    <strong> Status: </strong> Barely Surviving
+  </p>
+</section>
 
-<p>
-  <strong> Object Class: </strong> █████
-</p>
-<p>
-  <strong> Status: </strong> Barely Surviving
-</p>
 
 <h3> Tidbit: </h3>
-<section>
+<section class = "tidbit">
   <ul>
     <li>
       BSIT Student
     </li>
     <li>
       ESL Tutor
+    </li>
+    <li>
+      Chronic Reader
+    </li>
+    <li>
+      Rustacean
     </li>
   </ul>
 </section>
