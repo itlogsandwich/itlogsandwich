@@ -26,7 +26,7 @@
       ESL Tutor
     </li>
     <li>
-      Chronic Reader
+      Avid Reader
     </li>
     <li>
       Rustacean
