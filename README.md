@@ -8,7 +8,7 @@
   </p>
   
   <p>
-    <strong> Object Class: </strong> █████
+    <strong> Subject Class: </strong> █████
   </p>
   <p>
     <strong> Status: </strong> Barely Surviving
