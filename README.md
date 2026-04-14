@@ -19,11 +19,11 @@
 <h3> Tidbit: </h3>
 <section class = "tidbit">
   <ul>
-    <li>
-      BSIT Student
+     <li>
+      Software Engineer
     </li>
     <li>
-      SWE Intern
+      BSIT Student
     </li>
     <li>
       ESL Tutor
@@ -33,6 +33,9 @@
     </li>
     <li>
       Rustacean
+    </li>
+    <li>
+      Unsolicited Yapper
     </li>
   </ul>
 </section>
