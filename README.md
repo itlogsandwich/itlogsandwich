@@ -19,6 +19,9 @@
 <h3> Tidbit: </h3>
 <section class = "tidbit">
   <ul>
+    <li>
+      Junior Full-Stack Developer
+    </li>
      <li>
       Software Engineer
     </li>
