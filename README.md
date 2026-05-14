@@ -14,34 +14,6 @@
     <strong> Status: </strong> Barely Surviving
   </p>
 </section>
-
-
-<h3> Tidbit: </h3>
-<section class = "tidbit">
-  <ul>
-    <li>
-      Junior Full-Stack Developer
-    </li>
-     <li>
-      Software Engineer
-    </li>
-    <li>
-      BSIT Student
-    </li>
-    <li>
-      ESL Tutor
-    </li>
-    <li>
-      Avid Reader
-    </li>
-    <li>
-      Rustacean
-    </li>
-    <li>
-      Unsolicited Yapper
-    </li>
-  </ul>
-</section>
 <!---
 itlogsandwich/itlogsandwich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
